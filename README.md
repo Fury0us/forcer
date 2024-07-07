@@ -22,4 +22,6 @@ Description:
 ##
   This script uses Hydra and/or Burp Suite to brute-force a login page.
 ##
+Example:
+##
   forcer.sh -b -H http://example.com/login usernames.txt passwords.txt
